@@ -1,10 +1,11 @@
-// Copyright Epic Games, Inc. All Rights Reserved.
+// © 2021, Matthew Barham. All rights reserved.
 
 #pragma once
 
 #include "CoreMinimal.h"
 #include "Styling/SlateStyle.h"
 
+/**  */
 class FMinesweeperStyle
 {
 public:
